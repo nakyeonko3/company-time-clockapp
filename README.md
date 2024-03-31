@@ -1,3 +1,3 @@
-# Inflearn_BE0_Study_mini
-인프런 스터디 클럽 BE 0기 레포지토리 미니프로젝트 저장소
-# company-time-clockapp
+## company-time-clockapp
+- 인프런 스터디 클럽 BE -0기 레포지토리 미니프로젝트 저장소
+- 회사 출퇴근 관리 프로그램 만들기 프로젝트
